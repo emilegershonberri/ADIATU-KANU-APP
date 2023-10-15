@@ -1,0 +1,46 @@
+/* /* body{
+    background-color: black;
+} */
+ */
+.header{
+    background-color: brown;
+    color: black;
+    font-display: green;
+    text-decoration-style: solid;
+    padding: 5px;
+
+}
+
+/* h1, p {
+    display: flex;
+    justify-content: center;
+} */
+
+.icon{
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    width: 100vw;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+ul li{
+    margin: 10px;
+    list-style-type: none;
+} 
+
+ul li a:hover{
+    color: red;
+    transition: 1s ease;
+    transform: scale();
+}
+ bor
+.webpage {
+    margin: 10px; 
+    padding: 20px;
+    color: brown;
+    background-color: black;
+}
